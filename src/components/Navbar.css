@@ -58,6 +58,9 @@
   }
   
   @media screen and (max-width: 960px) {
+    .fa-down {
+      display: none;
+    }
     .NavbarItems {
       position: relative;
     }
